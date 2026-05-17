@@ -1,3 +1,8 @@
+# Service-Level Observability
+
+Para superar las limitaciones de los inventarios técnicos estáticos, se implementa una arquitectura de Observabilidad a Nivel de Servicio (Service-Level Observability) dividida en tres capas funcionales (Generate, Optimize, Illuminate), controlada de forma lógica mediante directrices declarativas de ciclo de vida operativo.
+
+```mermaid
 graph TD
     %% Estilos Generales y Paleta Profesional de Ingeniería
     classDef default fill:#FAFAFA,stroke:#333,stroke-width:1px,color:#111,font-family:monospace;
